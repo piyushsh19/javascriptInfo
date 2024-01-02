@@ -1,2 +1,2 @@
 # javascriptInfo
-This repo is a daily proghress on js code
+This repo is a daily progress on js concepts
